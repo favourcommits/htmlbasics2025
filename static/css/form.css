@@ -1,0 +1,28 @@
+#fname{
+    background-color: #c4e1d9;
+    color: brown;
+    text-align: center;
+}
+#lname{
+     background-color: #c4e1d9;
+    color: brown;
+    text-align: center;
+}
+#email{
+     background-color: #c4e1d9;
+    color: brown;
+    text-align: center;
+}
+#pass{
+     background-color: #c4e1d9;
+    color: brown;
+    text-align: center;
+}
+/*.mycontainer{*/
+/*    width: 100%;*/
+/*    overflow: scroll;*/
+/*}*/
+form{
+    background-color: burlywood;
+
+}

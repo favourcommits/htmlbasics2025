@@ -1,0 +1,32 @@
+.fruits{
+    background-color: red;
+    color: #2b5d97;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+.city{
+    background-color: chartreuse;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+.cars{
+    background-color: salmon;
+    color: aliceblue;
+    padding: 20px;
+    margin:20px;
+    border: green 2px dot-dash;
+    text-align: center;
+}
+.mycontainer{
+    width: 100%;
+    overflow: auto;
+}
+.mycontainer div{
+    width: 40%;
+    float: left;
+}

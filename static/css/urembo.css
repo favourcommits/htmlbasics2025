@@ -1,0 +1,19 @@
+h2{
+    color: #2b5d97;
+    text-align: center;
+    font-family: "Courier 10 Pitch";
+    font-size: 30px;
+}
+td,th{
+    border: 2px solid #1a4071;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    color: darkgreen;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
